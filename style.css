@@ -1,0 +1,44 @@
+.header
+{
+  background-color: grey;
+  width: 100%;
+  height:50px;
+}
+.topnav
+{
+  background-color: black;
+  width: 100%;
+  height: 20px;
+}
+#conteneur
+{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 250px;
+  justify-content: space-between;
+}
+.leftBlock
+{
+  background-color: green;
+  height:250px;
+  width: 17%
+}
+.centerBlock
+{
+  background-color: blue;
+  height:250px;
+  width: 55%;
+}
+.rightBlock
+{
+  background-color: yellow;
+  height:250px;
+  width: 17%
+}
+.footer
+{
+  background-color: grey;
+  width: 100%;
+  height:50px;
+}
